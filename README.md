@@ -20,6 +20,10 @@
 ### Cognizant Full Stack Developer Train to Hire: scholarship program on Udacity
 * project 1: using HTML and CSS to create an animal trading card. https://github.com/LEDA-GAO/WebDevelopingLearning
 
+## ✨ Hobby Projects
+
+* VR Bat Game project: Created by using Unity. https://github.com/LEDA-GAO/VR-Bat-Game 
+
 <!---
 LEDA-GAO/LEDA-GAO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
