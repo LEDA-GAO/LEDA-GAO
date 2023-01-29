@@ -16,6 +16,7 @@
 ### C++ Course on Udacity
 
 * project 1: A* search Route Planning project. https://github.com/LEDA-GAO/CppND-Route-Planning-Project-Leda- 
+* project 2: System Monitor Project in the Object Oriented Programming Course. https://github.com/LEDA-GAO/CppND-System-Monitor-Leda
 
 ### Cognizant Full Stack Developer Train to Hire: scholarship program on Udacity
 * project 1: using HTML and CSS to create an animal trading card. https://github.com/LEDA-GAO/WebDevelopingLearning
