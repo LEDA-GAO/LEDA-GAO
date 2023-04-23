@@ -21,6 +21,7 @@
 ### Cognizant Full Stack Developer Train to Hire: scholarship program on Udacity
 * project 1: using HTML and CSS to create an animal trading card. https://github.com/LEDA-GAO/WebDevelopingLearning
 * project 2: using JavaScript to create an interactive Pixel Art Maker web. https://github.com/LEDA-GAO/project-pixel-art-maker-starter-Leda
+* project 3: using Python to create an adventure game. https://github.com/LEDA-GAO/AdventureGame_Cottontails
 
 ## ✨ Hobby Projects
 
