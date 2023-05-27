@@ -22,6 +22,7 @@
 * project 1: using HTML and CSS to create an animal trading card. https://github.com/LEDA-GAO/WebDevelopingLearning
 * project 2: using JavaScript to create an interactive Pixel Art Maker web. https://github.com/LEDA-GAO/project-pixel-art-maker-starter-Leda
 * project 3: using Python to create an adventure game. https://github.com/LEDA-GAO/AdventureGame_Cottontails
+* project 4: a real world hotel reservation app. https://github.com/LEDA-GAO/Hotel_Reservation_Project
 
 ## ✨ Hobby Projects
 
