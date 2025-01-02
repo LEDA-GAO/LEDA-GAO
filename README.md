@@ -2,7 +2,8 @@
 - 👋 Hi, I’m Leda Gao@LEDA-GAO, a physics PhD candidate in Wake Forest University. 
 - 👀 I’m interested in computational physics and programming. 
 
-  My current research is about multimodes fitting for ringdown signal of gravitational waves. 
+  My current research is about multimodes fitting for ringdown signal of gravitational waves.
+- The public Mathematica package for implementing multimode fitting: https://github.com/cookgb/KerrRingdown.git
 - 📫 How to reach me- gaol18@wfu.edu
 
 ## 🌱 Courses and Projects  
